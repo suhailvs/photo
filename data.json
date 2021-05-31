@@ -1,0 +1,291 @@
+[{
+  "name": "Assanar",
+  "class": "man",
+  "textClass": "emphasis",
+  "marriages": [{
+    "spouse": {
+      "name": "Nammadumma",
+      "class": "woman",
+      "extra": {
+        "nickname": "umma"
+      }
+    },
+    "children": [
+    {
+      "name": "Abdulkadhar",
+      "class": "man",
+      "marriages": [{
+        "spouse": {
+          "name": "Asiya",
+          "class": "woman"
+        },
+        "children": [{
+          "name": "Shamsu",
+          "class": "man",
+          "marriages": [{
+            "spouse": {
+              "name": "Rasiya",
+              "class": "woman"
+            }, 
+            "children": [{
+              "name": "Ansar",
+              "class": "man"
+            },{
+              "name": "Ansiya",
+              "class": "woman"
+            },{
+              "name": "Ajmal",
+              "class": "man"
+            }]
+          }]
+        }, {
+          "name": "Shaji",
+          "class": "woman",
+          "marriages": [{
+            "spouse": {
+              "name": "--",
+              "class": "man"
+            }, 
+            "children": [{
+              "name": "Hiba",
+              "class": "woman"
+            }]
+          }]
+        }, {
+          "name": "Jasmine",
+          "class": "woman",
+          "marriages": [{
+            "spouse": {
+              "name": "Amanulla",
+              "class": "man"
+            }, 
+            "children": [{
+              "name": "--",
+              "class": "man"
+            },{
+              "name": "Afri",
+              "class": "woman"
+            }]
+          }]
+        }, {
+          "name": "Shahana",
+          "class": "woman",
+          "extra": {
+            "nickname": "akana"
+          },
+          "marriages": [{
+            "spouse": {
+              "name": "Nishad",
+              "class": "man"
+            }, 
+            "children": [{
+              "name": "Ishan",
+              "class": "man"
+            },{
+              "name": "Nihal",
+              "class": "man"
+            }]
+          }]
+        }]
+      }]
+    },
+    {
+      "name": "Moosakoya",
+      "class": "man",
+      "marriages": [{
+        "spouse": {
+          "name": "Doulath",
+          "class": "woman"
+        },
+        "children": [{
+          "name": "Shihas",
+          "class": "man",
+          "marriages": [{
+            "spouse": {
+              "name": "Raseena",
+              "class": "woman",
+              "extra": {
+                "nickname": "rasi"
+              }
+            }, 
+            "children": [{
+              "name": "sheza",
+              "class": "woman"
+            }]
+          }]
+        }, {
+          "name": "Sofi",
+          "class": "woman",
+          "extra": {
+            "nickname": "Chinnu"
+          },
+          "marriages": [{
+            "spouse": {
+              "name": "Shareef",
+              "class": "man"
+            }, 
+            "children": [{
+              "name": "Nazhal",
+              "class": "man"
+            }]
+          }]
+        }]
+      }]
+    },
+    {
+      "name": "Aisumma",
+      "class": "woman",
+      "marriages": [{
+        "spouse": {
+          "name": "Sayed Mohammed",
+          "class": "man"
+        },
+        "children": [{
+          "name": "Naseer",
+          "class": "man",
+          "marriages": [{
+            "spouse": {
+              "name": "Shami",
+              "class": "woman"
+            }, 
+            "children": [{
+              "name": "Ameen",
+              "class": "man"
+            },{
+              "name": "Ansaf",
+              "class": "man"
+            },{
+              "name": "Hisana",
+              "class": "woman"
+            }]
+          }]
+        },{
+          "name": "Najath",
+          "class": "man",
+          "marriages": [{
+            "spouse": {
+              "name": "Sofi",
+              "class": "woman"
+            },"children": [{
+              "name": "Inthisar",
+              "class": "man"
+            },{
+              "name": "Ayisha",
+              "class": "woman",
+              "extra": {
+                "nickname": "Lulu"
+              }
+            }]
+          }]
+        },{
+          "name": "Naseema",
+          "class": "woman",
+          "marriages": [{
+            "spouse": {
+              "name": "-",
+              "class": "man"
+            },"children": [{
+              "name": "Afsal",
+              "class": "man"
+            },{
+              "name": "Afrina",
+              "class": "woman"
+            }]
+          }]
+        }]
+      }]
+    },
+    {
+      "name": "Vaheedha",
+      "class": "woman",
+      "marriages": [{
+        "spouse": {
+          "name": "Sulaiman",
+          "class": "man"
+        },
+        "children": [{
+          "name": "Suhail",
+          "class": "man",
+          "marriages": [{
+            "spouse": {
+              "name": "Nusra",
+              "class": "woman"
+            }
+          }]
+        }, {
+          "name": "Sufail",
+          "class": "man",
+          "marriages": [{
+            "spouse": {
+              "name": "Neema",
+              "class": "woman"
+            },
+            "children": [{
+              "name": "Ayaan",
+              "class": "man"}]
+          }]
+        },{
+          "name": "Sumayya",
+          "class": "woman",
+          "extra": {
+            "nickname": "Sumee"
+          }
+        }]
+      }]
+    },{
+      "name": "Shaira",
+      "class": "woman",
+      "marriages": [{
+        "spouse": {
+          "name": "Habeeb",
+          "class": "man"
+        },
+        "children": [{
+          "name": "Fouzi",
+          "class": "woman",
+          "marriages": [{
+            "spouse": {
+              "name": "--",
+              "class": "man"
+            }
+          }]
+        }, {
+          "name": "Fazal",
+          "class": "man"
+        }]
+      }]
+    },{
+      "name": "Hair",
+      "class": "woman",
+      "marriages": [{
+        "spouse": {
+          "name": "Shukkoor",
+          "class": "man"
+        },
+        "children": [{
+          "name": "Nishad",
+          "class": "man"
+        }, {
+          "name": "Shakkeer",
+          "class": "man"
+        }]
+      }]
+    },{
+      "name": "Salwath",
+      "class": "woman",
+      "marriages": [{
+        "spouse": {
+          "name": "-",
+          "class": "man"
+        },
+        "children": [{
+          "name": "Firoz",
+          "class": "man"
+        }, {
+          "name": "Hafsath",
+          "class": "woman"
+        }]
+      }]
+    }]
+  }]
+}]
