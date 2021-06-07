@@ -182,7 +182,7 @@
           "class": "woman",
           "marriages": [{
             "spouse": {
-              "name": "-",
+              "name": "Abbas",
               "class": "man"
             },"children": [{
               "name": "Afsal",
@@ -247,7 +247,10 @@
             "spouse": {
               "name": "Muhammed Ali",
               "class": "man"
-            }
+            },
+            "children": [{
+              "name": "Hassan Ali",
+              "class": "man"}]
           }]
         }, {
           "name": "Fazal",
