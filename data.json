@@ -43,7 +43,7 @@
           "class": "woman",
           "marriages": [{
             "spouse": {
-              "name": "--",
+              "name": "Hamza",
               "class": "man"
             }, 
             "children": [{
@@ -60,7 +60,7 @@
               "class": "man"
             }, 
             "children": [{
-              "name": "--",
+              "name": "Adhil",
               "class": "man"
             },{
               "name": "Afri",
@@ -245,7 +245,7 @@
           "class": "woman",
           "marriages": [{
             "spouse": {
-              "name": "--",
+              "name": "Muhammed Ali",
               "class": "man"
             }
           }]
