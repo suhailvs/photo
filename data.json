@@ -111,7 +111,11 @@
             "children": [{
               "name": "sheza",
               "class": "woman"
-            }]
+            },{
+              "name": "Shahin",
+              "class": "man"
+            }
+            ]
           }]
         }, {
           "name": "Sofi",
@@ -150,13 +154,24 @@
             }, 
             "children": [{
               "name": "Ameen",
-              "class": "man"
+              "class": "man",
+              "marriages": [{
+              "spouse": {
+                "name": "Binsha Shaji",
+                "class": "woman"
+              }}]
             },{
               "name": "Ansaf",
               "class": "man"
             },{
               "name": "Hisana",
-              "class": "woman"
+              "class": "woman",
+              "marriages": [{
+                "spouse": {
+                  "name": "Basith",
+                  "class": "man"
+                }
+              }]
             }]
           }]
         },{
